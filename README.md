@@ -1,4 +1,4 @@
-## <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Nwabuwa Philip.👨🏾‍💻 </p>
+## <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, <i>I'm Nwabuwa Philip</i>.👨🏾‍💻 </p>
 <p align="center">
 Passionate about Software Engineering and the vast possibilities in the world of Tech!
 </p>
