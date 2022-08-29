@@ -20,5 +20,5 @@ I'm a Software Engineer who is currently a student at Alt_School Africa, I'm pas
 
 ## GITHUB STATS :bar_chart:
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Philipjoe21&show_icons=true&include_all_commits=true&hide_border=true" alt="Philip's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipjoe21&langs_count=8&layout=compact&hide_border=true" alt="Philip's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Philip-Nwabuwa&show_icons=true&include_all_commits=true&hide_border=true" alt="Philip's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philip-Nwabuwa&langs_count=8&layout=compact&hide_border=true" alt="Philip's GitHub stats" /> |
 | ------------- | ------------- |
