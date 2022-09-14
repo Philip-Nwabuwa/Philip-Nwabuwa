@@ -1,4 +1,9 @@
 ## <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, <i>I'm Nwabuwa Philip</i>.👨🏾‍💻 </p>
+
+<p align="center">
+  <a href="https://github.com/Philip-Nwabuwa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20and%20app%20developer;Experienced%20JavaScript%2FGolang%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
+
 <p align="center">
 I'm a Software Engineer who is currently a student at Alt_School Africa, I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, and others. I am passionate about Software Engineering and the vast possibilities in the world of Tech! 
 </p>
