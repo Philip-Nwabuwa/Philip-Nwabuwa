@@ -1,7 +1,7 @@
 ## <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, <i>I'm Nwabuwa Philip</i>.👨🏾‍💻 </p>
 
 <p align="center">
-  <a href="https://github.com/Philip-Nwabuwa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Am%20a%20FrontEnd%20Engineer%20;Experienced%20JavaScript%2FReact%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/Philip-Nwabuwa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Am%20a%20FrontEnd%20Engineer%20;Experienced%20JavaScript%2FReact%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <p align="center">
