@@ -14,9 +14,9 @@ I'm a Software Engineer who was a student at Alt_School Africa, I'm passionate a
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I was a student at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Reactjs.
-- 😊 I’m seeking help with open-source projects, hackathons, and mid-level opportunities.
-- 💼 Job interests: Software Engineer & Front Engineer. (mid level).
+- 🌱 Currently deepening my expertise in JavaScript and React.js, focusing on building scalable, production-ready front-end applications.
+- 🚀 Actively seeking mentorship and collaboration on open-source projects, technical hackathons, and high-impact initiatives to accelerate my growth.
+- 💼 Career interests: Front-End Engineer | Software Engineer (Mid-Level) — open to opportunities where I can contribute meaningfully while continuing to grow in a senior-track role.
 - 📫 You can [view my resume](#) and contact me by emailing philipnwabuwa@gmail.com.
 
 ## TECH STACK 🧰 🛠
